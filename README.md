@@ -1,6 +1,7 @@
 # ASP.NET Core Entity Framework Project
 
 Welcome to the ASP.NET Core Entity Framework Project! This project is a practical demonstration of using Entity Framework Core with ASP.NET Core to build robust and efficient web applications. It covers a range of topics from basic CRUD operations to advanced database interactions.
+<img width="937" alt="Screenshot" src="https://github.com/Peter19995/ASP.NET-Core-Entity-Framework-Project/assets/55706749/bee0c390-371c-41d8-8899-8ee13e87455b">
 
 ## Project Overview
 
